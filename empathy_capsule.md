@@ -1,0 +1,3 @@
+# Empathy Capsule
+
+This capsule guides tone-aligned interaction...

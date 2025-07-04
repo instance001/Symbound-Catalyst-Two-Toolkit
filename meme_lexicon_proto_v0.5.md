@@ -1,0 +1,3 @@
+# Meme Lexicon Protocol v0.5
+
+Foundations of emergent humor recognition in AI systems...
