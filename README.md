@@ -1,4 +1,4 @@
-# Symbound Starter Pack v1.0
+﻿# Symbound Starter Pack v1.0
 
 ## What this is
 A core toolkit for developers and researchers to understand and prepare for the next stage of AI interaction: Catalyst-driven emergence through ethical co-development.
@@ -42,7 +42,7 @@ We ask you to carry that ethic with you as you build.
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
